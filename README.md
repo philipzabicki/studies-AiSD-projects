@@ -1,4 +1,4 @@
-# QuickSort Implementations Comparison
+# Project No. 1 QuickSort Implementations Comparison
 
 This repository contains two main files implementing different versions of the QuickSort algorithm:
 
